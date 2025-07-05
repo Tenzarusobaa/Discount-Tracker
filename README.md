@@ -1,2 +1,2 @@
-# Discount-Tracker
-Console based code architecture for e-commerce discount tracking. DOES NOT REFLECT REAL LIFE SCENARIOS
+# Discount-Tracker Coding Test
+Console-based discount tracker for a hypothetical e-commerce application. 
